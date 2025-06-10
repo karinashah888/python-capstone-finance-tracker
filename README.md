@@ -1,5 +1,5 @@
 # python-capstone-finance-tracker
-# Python Capstone Finance Tracker
+
 
 A command-line personal finance tracker built in Python that allows users to log expenses, categorize them, and view financial summaries.
 
